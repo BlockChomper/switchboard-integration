@@ -1,4 +1,4 @@
-# SwitchWalk6 - Solana Price Oracle Integration
+# Switcboard - Solana Program / Price Oracle Integration
 
 A Solana program demonstrating integration with Switchboard oracles to fetch and use real-time price data on-chain, with a specific implementation for SOL/USD price conversion.
 
